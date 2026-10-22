@@ -1,0 +1,16 @@
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.vb
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.vbproj.CoreCompileInputs.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\EmmaYou\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleA.C937C759.Up2Date
